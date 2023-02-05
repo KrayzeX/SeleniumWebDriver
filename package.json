@@ -1,0 +1,9 @@
+{
+  "name": "lesson1",
+  "version": "1.0.0",
+  "dependencies": {
+    "selenium-webdriver": "^4.8.0",
+    "mocha": "^10.2.0",
+    "chromedriver": "^109.0.0"
+  }
+}
